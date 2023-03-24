@@ -6,4 +6,4 @@ One of the most famous kinds of the learning is Associative Learning (AL). It oc
 ![](ppt/topo.png)
 
 # How to cite
-* F. Afdideh et al., "Topographical Representation in an Associative Learning Task Using BSS Analysis on MEG Signals", to be published.
+* F. Afdideh, et al., "Topographical Representation in an Associative Learning Task Using BSS Analysis on MEG Signals", to be published.
